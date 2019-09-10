@@ -1,0 +1,14 @@
+_____Github_____
+git fetch --all
+git reset --hard origin/master
+git pull origin master
+
+
+_____NPM_____
+
+
+_____Composer_____
+
+
+
+_____Yarn_____
