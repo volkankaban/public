@@ -12,3 +12,7 @@ _____Composer_____
 
 
 _____Yarn_____
+
+_____MySql_____
+SELECT MAX( `column` ) FROM `table` ;
+ALTER TABLE `table` AUTO_INCREMENT = number;
