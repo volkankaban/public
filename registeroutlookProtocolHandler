@@ -1,0 +1,1 @@
+navigator.registerProtocolHandler("mailto", "https://outlook.live.com/owa/?path=/mail/action/compose&to=%s", "Outlook.com");
